@@ -1,0 +1,1 @@
+For assignment no2 make sure to have the graphs com-Friendster and mawi uploaded in the same folder as your project cause this folder will be containing only the code used AND the report since git could not handle the massive size of those 2 graphs
