@@ -4,3 +4,6 @@ Run the code block once,it will take a while,dw it is normal cause we have the c
 The second run is the best!
 When moving to the next graph to try, delete the binary files and rename the graph into graph.mtx!|
 Have a good day!
+
+Testing is for the first implemetantion(V1)
+Testing2 is for the stride one
